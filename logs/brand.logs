@@ -1,0 +1,5 @@
+2023-07-16 02:54:49,483 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-16 02:55:22,562 django.utils.autoreload INFO     C:\Users\DELL\Desktop\portfolio-projects\brand-ecommerce-app\brand-be\brand\brand\settings\base.py changed, reloading.
+2023-07-16 02:55:24,286 django.utils.autoreload INFO     Watching for file changes with StatReloader
+2023-07-16 02:55:32,097 django.utils.autoreload INFO     C:\Users\DELL\Desktop\portfolio-projects\brand-ecommerce-app\brand-be\brand\brand\settings\base.py changed, reloading.
+2023-07-16 02:55:33,470 django.utils.autoreload INFO     Watching for file changes with StatReloader
